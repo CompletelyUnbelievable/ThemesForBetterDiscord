@@ -1,5 +1,4 @@
-#Destiny 2 Themes by xNightWulf
-
+# Destiny 2 Themes by xNightWulf
 Destiny 2 Titan Theme v1.1
 
 Changelog
