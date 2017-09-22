@@ -1,7 +1,9 @@
 # Destiny 2 Themes by xNightWulf
-Destiny 2 Titan Theme v1.2
+Destiny 2 Titan Theme v1.3
 
 Changelog
+
+v1.3: Added a opaque white background behind messages to make them easier to read. Changed the color of the new messages bar that appears at the top of the page. Changed the color of the background when a BD setting is selected.
 
 v1.2: Implemented an auto-update system.
 
