@@ -1,4 +1,9 @@
 # Destiny 2 Themes by xNightWulf
+
+To join my theme Discord channel use the link: https://discord.gg/5BtB3Tc
+
+To join my gaming Discord channel use the link: https://discord.gg/M6YXcjh
+
 Destiny 2 Titan Theme v1.3
 
 Changelog
@@ -21,7 +26,4 @@ Changelog
 
 v1.1: Implemented an auto-update system. To use this press ctrl+shift+i to open the inspector tool. Click on network at the top and click disable cache. https://gyazo.com/4966d916a51be7ba584581caf9a64cd8
 
-To join my theme Discord channel use the link:   https://discord.gg/5BtB3Tc
-
-To join my gaming Discord channel use the link:  https://discord.gg/M6YXcjh
 
