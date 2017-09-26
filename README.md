@@ -4,9 +4,15 @@ To join my theme Discord channel use the link: https://discord.gg/5BtB3Tc
 
 To join my gaming Discord channel use the link: https://discord.gg/M6YXcjh
 
-Destiny 2 Titan Theme v1.3
+
 
 Changelog
+
+v1.3.3: Changed the color of text in server settings so it is now readable. Rounded the corners of the backgrounds behind chat messages, added a color to the border of the background behind chat messages and also added a transition when it is hovered. Made the # and the speaker icons next to channels more visable.
+
+v1.3.2: Made text in server settings more visable, change the "#" and speaker icons next to channels to be easily seen. Rounded the corners on the chat message background, added a border color and added a transition when hovering over chat messages.
+
+v1.3.1: Added images for the user popout when people are streaming, changed ring color around profile pic in user popout when streaming. Made it so muted channel catagories are no longer visible (hover in the place and you can find it again) Animated the channel container when there is an unread message. Changed color of background when the Discord Nitro setting is selected.
 
 v1.3: Added a opaque white background behind messages to make them easier to read. Changed the color of the new messages bar that appears at the top of the page. Changed the color of the background when a BD setting is selected.
 
