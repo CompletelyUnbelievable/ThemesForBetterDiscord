@@ -1,0 +1,242 @@
+//META{"name":"BlueNissanGTR","description":"A_blue_NissanSkylineGTR_theme","author":"xNightWulf","version":"1.0"}*//{}
+
+/* Background */
+.app {
+    background-image: url(https://i.imgur.com/Vcfofnn.jpg) !Important; 
+    background-size: cover !important;	
+}
+.theme-dark .layer, .theme-dark .layers {
+    background: rgba(0, 0, 0, 0.12) !important;
+}
+
+/*Transparency*/
+#voice-connection,
+#friends,
+.friends-header,
+.friends-table,
+.guilds-wrapper,
+.guild-header header,
+.channels-wrap,
+.private-channels .search-bar,
+.private-channels,
+.guild-channels,
+.account,
+.friend-table-add-header,
+.chat,
+.content,
+.layers,
+.title-wrap:not(.search-bar),
+.messages-wrapper,
+.messages .divider span,
+.messages .divider:before,
+.content,
+.message-group-blocked,
+.is-local-bot-message,
+.channel-members-loading,
+.channel-members-loading .heading,
+.channel-members-loading .member,
+.typing, .layer, .layers, .container-RYiLUQ {
+    background: rgba(0, 0, 0, 0.05) !important;
+}
+
+/*User_List*/
+.theme-dark .channel-members {
+    background-color: rgba(0, 0, 0, 0.29);
+}
+.theme-dark .message-group .comment .markup {
+    color: rgb(0, 142, 255);
+}
+.theme-dark .message-group .comment .markup .mention:hover {
+    background-color: rgb(14, 142, 241);
+}
+.mention {
+    background: #f1f3fb;
+    color: #ffffff;
+}    
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: #0e8ef1;
+    text-transform: capitalize;
+}
+.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
+    color: #0e8ee5;
+    text-transform: capitalize;
+}
+.nameMutedText-1YDcP-, .nameMutedVoice-26k4cP {
+    text-transform: capitalize;
+}
+.nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
+    color: #0e8ee5;
+    text-transform: capitalize;
+}
+
+html, span:not(.spinner-item) {
+
+    backface-visibility: hidden;
+}
+.theme-dark .message-group:not(.has-divider) {
+    border-bottom-color: transparent;
+    background-color: rgba(60, 60, 60, 0.2);
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.theme-dark .message-group:not(.has-divider):hover {
+    box-shadow: 1px 1px #0e8ee5,/*LightBlue*/
+ 1px 1px #0e8ee5,/*LightBlue*/
+ 1px 1px #0e8ee5;
+}
+
+.nameHoveredText-2FFqiz {
+    color: #0e8ee5;
+    text-transform: capitalize;
+}
+.nameDefault-Lnjrwm {
+    color: #0e8ee5;
+    background: linear-gradient(rgb(113, 113, 113), rgb(0, 0, 0)) !important;
+    text-transform: Capitalize;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    border-radius: 15px !important;
+    padding-right: 1px !important;
+    padding-left: 1px !important;
+    text-align: center;
+    font-size: 14px;
+    text-shadow: 0.3px 0.3px 20px white;
+}
+.nameHovered-1YFSWq {
+    background: linear-gradient(rgb(113, 113, 113), rgb(0, 0, 0)) !important;
+    text-transform: Capitalize;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    border-radius: 15px !important;
+    padding-right: 1px !important;
+    padding-left: 1px !important;
+    text-align: center;
+    font-size: 14px;
+    text-shadow: 0.3px 0.3px 20px white;
+}
+.theme-dark .channel-members h2 {
+    color: #0e8ee5;
+    font-weight: bold;
+     background: linear-gradient(rgb(113, 113, 113), rgb(0, 0, 0)) !important;
+    text-align: center;
+    border-radius: 100px;
+    position: relative;
+    left: 10px;
+    padding: 7px;
+    padding-right: 10px;
+    width: 190px;
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: #1e2124;
+    border-color: #1290e5;
+}
+.header-toolbar button span {
+    -webkit-transition: opacity .2s;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 26px;
+    display: block;
+    height: 30px;
+    opacity: 1;
+    transition: opacity .2s;
+    width: 30px;
+}
+.chat>.title-wrap.title-wrap-dark .channel-name, .chat>.title-wrap.title-wrap-dark .title.channel-group-dm-managed .channel-name, .chat>.title-wrap.title-wrap-dark .title.channel-group-dm .channel-name .input-autosize-inner .input-autosize-input {
+    color: #0e8ee5;
+}
+.name-3gtcmp {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    flex: 1;
+    font-size: 16px;
+    line-height: 55px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #1591e5;
+}
+.headerNormal-1cioxU {
+    background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
+    background-size: cover;
+}
+#user-profile-modal .header:after {
+    background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
+    background-size: cover;
+}
+#user-profile-modal .avatar-wrapper {
+    background-color: transparent;
+    left: 40px;
+    position: absolute;
+    top: 40px;
+}
+.theme-dark .themed-popout .header {
+    background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
+    background-size: 470px 500px;
+}
+.scroller-wrap, .scroller .messages-popout{
+    background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
+    background-size: cover;
+}
+.theme-dark .search-results-wrap .search-header {
+    background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
+    background-size: cover;
+}
+.theme-dark .messages-popout-wrap .messages-popout .empty-placeholder .body {
+    color: hsl(0, 0%, 100%);
+    font-size: 16px;
+    line-height: 19px;
+}
+.theme-dark .ui-standard-sidebar-view .content-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .sidebar-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view {
+    background: transparent;
+}
+.itemDefaultSelected-1UAWLe {
+    background-color: #04213f;
+    color: #fff;
+}
+.buttonBrandFilled-3Mv0Ra:hover {
+    background-color: #04213f;
+    color: #fff;
+}
+.buttonBrandFilled-3Mv0Ra {
+    background-color: #04213f;
+    color: #fff;
+}
+.itemBrand-mC9YR4 {
+    color: #69707b;
+}
+.itemBrandSelected-3LxxzT {
+    background-color: #04213f;
+    color: #fff;
+}
+#bd-settings-sidebar .ui-tab-bar-item.selected {
+    background-color: #04213f;
+    color: #fff;
+}
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    color: rgb(14, 142, 229);
+}
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
+    background: #0f89dd;
+    opacity: 1;
+}
+.theme-dark .message-group h2 strong {
+    width: 20px !important;
+    background: red !important;
+    background: -webkit-linear-gradient(#31343a, #41454c) !important;
+    background: -o-linear-gradient(#31343a, #41454c) !important;
+    background: -moz-linear-gradient(#31343a, #41454c) !important;
+    background: linear-gradient(rgb(113, 113, 113), rgb(0, 0, 0)) !important;
+    border-radius: 25px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    text-shadow: 3px 3px 20px #0f89dd;
+    padding: 3px;
+}
