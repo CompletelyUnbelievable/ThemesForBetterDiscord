@@ -77,9 +77,9 @@
     color: grey;
 }
 .theme-dark .channel-members h2 {
-    color:grey;
+    color: grey;
     text-align: center;
-    box-shadow:15px 4px 4px rgba(0, 0, 0, .7);
+    box-shadow: 15px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .search-popout {
     background-color: #1f2123;
@@ -326,4 +326,10 @@
 }
 .tooltip::after {
     visibility: hidden;
+}
+.quick-message {
+    color: grey;
+}
+#user-profile-modal .avatar-wrapper {
+    background-color: rgba(255, 255, 255, 0);
 }
