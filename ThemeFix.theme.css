@@ -51,6 +51,11 @@
 .container-3lnMWU {
     background-color: rgba(0, 0, 0, 0) !important;
 }
+.typeWindows-15E0Ys {
+    height: 18px;
+    margin-top: 4px;
+    background-color: rgba(0, 0, 0, 0.18);
+}
 .theme-dark .layer, .theme-dark .layers {
     background: rgba(0, 0, 0, 0.18) !important;
 }
