@@ -1,3 +1,7 @@
 //META{"name":"ThemeFixer","description":"Fixes_All_Themes_Including_Themes_That_Have_Been_Broke_For_Ages","author":"xNightWulf","version":"1.1"}*//{}
 
 @import url(https://rawgit.com/xNightWulf/BetterDiscordThemeMasterFile/master/zThemeFix.theme.css)
+
+.theme-dark .layer, .theme-dark .layers, .typeWindows-15E0Ys {
+    background: rgba(0, 0, 0, 0.18) !important;
+}
